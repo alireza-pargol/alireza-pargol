@@ -1,7 +1,7 @@
 ### Alireza Pargol
 #### programmer and teacher
 
-🌱 I’m currently learning AI
+🌱 I’m currently learning more about python
 
 <!--
 **alireza-pargol/alireza-pargol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
