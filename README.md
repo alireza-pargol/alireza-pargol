@@ -41,6 +41,9 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
+   <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="selenium" width="40" height="40"/>
+  </a>
 </p>
 <!--
 **alireza-pargol/alireza-pargol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
